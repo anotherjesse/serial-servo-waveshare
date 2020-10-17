@@ -4,7 +4,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "Servo": "github:anotherjesse/pxt-servo#v1.0.0"
+        "Servo": "github:anotherjesse/pxt-servo#v1.0.1"
     },
     "files": [
         "main.blocks",
