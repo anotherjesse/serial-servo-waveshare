@@ -1,0 +1,22 @@
+{
+    "name": "serial-servo-waveshare",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "Servo": "github:waveshare/pxt-servo#v1.0.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
